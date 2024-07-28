@@ -21,4 +21,4 @@ Ao final deve se exibir uma mensagem:
 ## Resultado do projeto
 Fiz uma interface em web para facilitar essas visualizações, e aprendi bastante, cumpri o desafio e adicionei mais um pouco no meu conhecimento.
 
-![image](![alt text](image.png))
+![alt text](image.png)
